@@ -33,27 +33,35 @@
 
 ---
 
-## 💻 Technologies  
+## 🛠️ Technologies & Tools  
 
-<div align="center">
-
-### AI / Data Science
-<p>
-  <img width="40px" height="40px" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi,firebase" />
-  <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras"/>
-  <img width="45px" height="45px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit"/>
+### 🤖 AI / Data Science  
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Keras_logo.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" />
 </p>
 
-### Cloud & DevOps
-<p>
-  <img width="40px" height="40px" src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,linux" />
+### ☁️ Cloud & DevOps  
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Amazon_Web_Services_Logo.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Docker.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Git_icon.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="60" />
 </p>
 
-### Web Dev
-<p>
-  <img width="40px" height="40px" src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,flask,django,mysql,postgres,mongodb" />
+### 🌐 Web Dev  
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="60" />
 </p>
-</div>
+
 
 ---
 
