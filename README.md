@@ -46,7 +46,7 @@
 
   ### 🤖 AI & Data Science
   <p>
-    <img width="50px" height="50px" src="https://raw.githubusercontent.com/hwchase17/langchain/main/docs/static/img/favicon.ico" alt="LangChain"/>
+    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="LangChain"/>
     <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/2d218e3d1416e6b4d2e37f24336f0bbf6f7f2f53/topics/tensorflow/tensorflow.png" alt="TensorFlow"/>
     <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/2d218e3d1416e6b4d2e37f24336f0bbf6f7f2f53/topics/pytorch/pytorch.png" alt="PyTorch"/>
     <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="MLflow"/>
