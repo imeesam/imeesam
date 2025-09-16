@@ -79,10 +79,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=imeesam&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imeesam&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeesam&theme=dark" alt="GitHub Streak" />
-</p>
