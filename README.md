@@ -57,6 +57,8 @@
   <p>
     <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="Docker"/>
     <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" alt="FastAPI"/>
+    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" alt="FastAPI"/>
+    
   </p>
 
 </div>
