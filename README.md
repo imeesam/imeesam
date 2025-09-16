@@ -33,34 +33,32 @@
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 💻 Technologies  
 
-### 🤖 AI / Data Science  
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Keras_logo.svg" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" />
-</p>
+<div align="center">
+  
+  ### 🌐 Frontend & Basics
+  <p>
+    <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"/>
+    <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
+    <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/>
+  </p>
 
-### ☁️ Cloud & DevOps  
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Amazon_Web_Services_Logo.svg" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Docker.svg" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Git_icon.svg" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="60" />
-</p>
+  ### 🤖 AI & Data Science
+  <p>
+    <img width="50px" height="50px" src="https://raw.githubusercontent.com/hwchase17/langchain/main/docs/static/img/favicon.ico" alt="LangChain"/>
+    <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/2d218e3d1416e6b4d2e37f24336f0bbf6f7f2f53/topics/tensorflow/tensorflow.png" alt="TensorFlow"/>
+    <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/2d218e3d1416e6b4d2e37f24336f0bbf6f7f2f53/topics/pytorch/pytorch.png" alt="PyTorch"/>
+    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="MLflow"/>
+  </p>
 
-### 🌐 Web Dev  
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="60" />
-</p>
+  ### 🛠️ Backend & DevOps
+  <p>
+    <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/7f1a82b8cb6b89b8b9307cd85c6317b1d2f3ddc7/topics/docker/docker.png" alt="Docker"/>
+    <img width="50px" height="50px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"/>
+  </p>
+
+</div>
 
 
 ---
