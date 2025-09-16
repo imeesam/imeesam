@@ -47,14 +47,16 @@
   ### 🤖 AI & Data Science
   <p>
     <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="LangChain"/>
-    <img width="50px" height="50px" src="https://cloud.githubusercontent.com/assets/695274/14502882/c8289650-01ad-11e6-8cb6-69b4b3052edc.jpg" alt="TensorFlow"/>
-    <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/2d218e3d1416e6b4d2e37f24336f0bbf6f7f2f53/topics/pytorch/pytorch.png" alt="PyTorch"/>
+    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="TensorFlow"/>
+    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" alt="PyTorch"/>
     <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" alt="MLflow"/>
+    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="SciKit Learn"/>
+    
 
   ### 🛠️ Backend & DevOps
   <p>
-    <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/7f1a82b8cb6b89b8b9307cd85c6317b1d2f3ddc7/topics/docker/docker.png" alt="Docker"/>
-    <img width="50px" height="50px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"/>
+    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="Docker"/>
+    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" alt="FastAPI"/>
   </p>
 
 </div>
