@@ -1,4 +1,4 @@
-# Meesam Abbas
+# Syed Muhammad Meesam Abbas 
 
 <div align="center">
   <a href="https://huggingface.co/imeesam" target="_blank" rel="nofollow noopener noreferrer">
