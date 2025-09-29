@@ -51,6 +51,7 @@
     <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" alt="PyTorch"/>
     <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" alt="MLflow"/>
     <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="SciKit Learn"/>
+    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" alt="Pydantic"/>
     
 
   ### 🛠️ Backend & DevOps
