@@ -41,7 +41,7 @@
   <p>
     <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"/>
     <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
-    <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/>
+    <img width="50px" height="50px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true" alt="JavaScript"/>
   </p>
 
   ### 🤖 AI & Data Science
