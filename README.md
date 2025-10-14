@@ -13,9 +13,6 @@
   <a href="https://www.kaggle.com/meesamrizvi" target="_blank" rel="nofollow noopener noreferrer">
     <img alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://www.instagram.com/i._.meesam/" target="_blank" rel="nofollow noopener noreferrer">
-    <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
-  </a>
   <a href="https://www.researchgate.net/profile/Meesam-Abbas-3?ev=hdr_xprf" target="_blank" rel="nofollow noopener noreferrer">
     <img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white&style=for-the-badge"/>
   </a>
