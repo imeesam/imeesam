@@ -1,82 +1,81 @@
-# Muhammad Meesam
+# 🚀 Muhammad Meesam
+### AI/ML Engineering Student @ NED University
 
 <div align="center">
-  <a href="https://huggingface.co/imeesam" target="_blank" rel="nofollow noopener noreferrer">
+  <a href="https://huggingface.co/imeesam" target="_blank">
     <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-ffcc00?logo=huggingface&logoColor=black&style=for-the-badge"/>
   </a>
-  <a href="mailto:meesam297@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
+  <a href="mailto:meesam297@gmail.com">
     <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/meesam-abbas-6b7989257" target="_blank" rel="nofollow noopener noreferrer">
+  <a href="https://www.linkedin.com/in/meesam-abbas-6b7989257" target="_blank">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/meesamrizvi" target="_blank" rel="nofollow noopener noreferrer">
+  <a href="https://www.kaggle.com/meesamrizvi" target="_blank">
     <img alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://www.researchgate.net/profile/Meesam-Abbas-3?ev=hdr_xprf" target="_blank" rel="nofollow noopener noreferrer">
+  <a href="https://www.researchgate.net/profile/Meesam-Abbas-3?ev=hdr_xprf" target="_blank">
     <img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-🎓 Electronics Engineering Student @ **NED University**  
-🚀 Passionate about **AI/ML/DL, CV, NLP, GenAI & Agentic AI**  
-💡 Building **AI/ML Engineering & Intelligent Systems**  
-🤝 Open to collaborations in **AI/ML/DL, CV, NLP, Robotics**  
-📫 Reach me at **meesam297@gmail.com**
+I am an **Electronics Engineering student** at **NED University** passionate about building intelligent systems. I specialize in the intersection of Deep Learning and real-world deployment.
 
----
-
-## 💻 Technologies  
-
-<div align="center">
-  
-  ### 🌐 Frontend & Basics
-  <p>
-    <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"/>
-    <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
-    <img width="50px" height="50px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true" alt="JavaScript"/>
-  </p>
-
-  ### 🤖 AI & Data Science
-  <p>
-    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="LangChain"/>
-    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="TensorFlow"/>
-    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" alt="PyTorch"/>
-    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" alt="MLflow"/>
-    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="SciKit Learn"/>
-    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" alt="Pydantic"/>
-    
-
-  ### 🛠️ Backend & DevOps
-  <p>
-    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="Docker"/>
-    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" alt="FastAPI"/>
-    <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" alt="FastAPI"/>
-    
-  </p>
-
-</div>
-
+* 🔭 **Currently working on:** AI/ML Engineering & Intelligent Systems.
+* 🚀 **Interests:** CV, NLP, GenAI & Agentic AI.
+* 💡 **Open to:** Collaborations in Robotics and AI research.
+* 📫 **Reach me:** [meesam297@gmail.com](mailto:meesam297@gmail.com)
 
 ---
 
-## 🚀 Highlighted Projects  
+## 🛠️ Tech Stack
 
-🌟 [Neem Leaf Health Classification (ESP32 + TFLite)](https://github.com/imeesam/neem_leave_detection)  
-🌟 [Glaucoma Detection with CNN](https://github.com/imeesam/Glaucoma_Detection)  
-🌟 [NLP with Gensim](https://github.com/imeesam/NLP_with_Gensim)  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imeesam&show_icons=true&theme=dark" alt="GitHub Stats" />
-
-![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/i_meesam?theme=light)
+### 🤖 AI & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
+### 🌐 Backend & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-0058ED?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+## 🚀 Highlighted Projects
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🍃 [**Neem Leaf Health**](https://github.com/imeesam/neem_leave_detection) | Real-time classification on the edge. | ESP32, TFLite |
+| 👁️ [**Glaucoma Detection**](https://github.com/imeesam/Glaucoma_Detection) | Deep Learning for medical diagnosis. | CNN, PyTorch |
+| 📝 [**NLP with Gensim**](https://github.com/imeesam/NLP_with_Gensim) | Topic modeling and word embeddings. | Python, Gensim |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imeesam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imeesam&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://readmecodegen.com/api/leetcode-stats/i_meesam?theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
+<p align="center">
+  <i>"Transforming data into intelligence, one model at a time."</i>
+</p>
