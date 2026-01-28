@@ -32,46 +32,26 @@
 ---
 
 ## 💻 Technologies
-
-### 🌐 Frontend & Basics
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="45"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="45"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="45"/>
 </p>
 
-### 🤖 AI / ML
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/15658638?s=200" width="45"/>
   <img src="https://avatars.githubusercontent.com/u/21003710?s=200" width="45"/>
   <img src="https://avatars.githubusercontent.com/u/365630?s=200" width="45"/>
   <img src="https://avatars.githubusercontent.com/u/110818415?s=200" width="45"/>
 </p>
-
-### 🧠 LLMs & MLOps
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/126733545?s=48" width="45"/>
   <img src="https://avatars.githubusercontent.com/u/39938107?s=200" width="45"/>
 </p>
-
-### 🛠 Backend & DevOps
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/5429470?s=200" width="45"/>
   <img src="https://avatars.githubusercontent.com/u/156354296?s=200" width="45"/>
 </p>
-
----
-
-## 🚀 Highlighted Projects
-
-🌟 **Neem Leaf Health Classification (ESP32 + TFLite)**  
-🔗 https://github.com/imeesam/neem_leave_detection  
-
-🌟 **Glaucoma Detection using CNNs**  
-🔗 https://github.com/imeesam/Glaucoma_Detection  
-
-🌟 **NLP with Gensim**  
-🔗 https://github.com/imeesam/NLP_with_Gensim  
 
 ---
 
