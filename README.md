@@ -76,5 +76,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imeesam&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/i_meesam?theme=light)
 </p>
 
