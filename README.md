@@ -1,4 +1,4 @@
-# Meesam Abbas
+# S. M. Meesam Abbas
 
 <div align="center">
   <a href="https://huggingface.co/imeesam" target="_blank">
